@@ -35,6 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/)
 
 ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeadeola" alt="princeadeola" /></a> </p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
