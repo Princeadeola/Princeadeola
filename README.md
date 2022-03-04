@@ -18,11 +18,10 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://giphy.com/gifs/Code17-website-developer-code17-MWRiRARGbMKBnErBHX" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif" width="600" height="300"/>
 </div>
 
 
-<iframe src="https://giphy.com/embed/MWRiRARGbMKBnErBHX" width="480" height="231" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>
 ---
 
 ### :woman_technologist: About Me :
