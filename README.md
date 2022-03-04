@@ -25,7 +25,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+My name is Adeola (coding_comrade), I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
 - :seedling: An aspiring cloud Developer (GCC/GCP).
@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💬 Ask me about **web and mobile development**
 
-- :zap: In my free time, I take classes in teaching web and mobile development.
+- :zap: As a tutor, I teach web and mobile ( Java & Kotlin ) development both private and schools
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/)
 
