@@ -37,7 +37,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I take classes in teaching web and mobile development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/)
-- Read my posts on medium: <a href="https://medium.com/@adesipe adeola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adesipe adeola" height="30" width="40" /></a>
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeadeola" alt="princeadeola" /></a> </p>
@@ -54,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Princeadeola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+Read my posts on medium: <a href="https://medium.com/@adesipe adeola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adesipe adeola" height="30" width="40" /></a>
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
