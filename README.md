@@ -30,6 +30,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: An aspiring cloud Developer (GCC/GCP).
 
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **web and mobile development**
+
 - :zap: In my free time, I take classes in teaching web and mobile development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/)
