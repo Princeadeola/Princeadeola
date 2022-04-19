@@ -16,6 +16,7 @@
     hey there,
   </h1>
   <p>Check out some of my projects pinned</p>
+  <p>For more projects for companies (private projects), contact me throught my social media below</p>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif" width="600" height="300"/>
