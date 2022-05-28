@@ -7,7 +7,7 @@ I am Adesipe Adeola, Currently I am working as Java instructor at National Insti
 [![Hashnode Badge](https://img.shields.io/badge/-@codingcomrades-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://codingcomrades.hashnode.dev/)](https://codingcomrades.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-princeadeola234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:princeadeola234@gmail.com)](mailto:princeadeola234@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://princeadeola.github.io/)](https://princeadeola.github.io/)
-[![Youtube Badge](https://img.shields.io/badge/-TechQuile-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ)](https://www.https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ)
+[![Youtube Badge](https://img.shields.io/badge/-TechQuile-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ)](https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
