@@ -50,6 +50,6 @@ I am Adesipe Adeola, Currently I am working as Java instructor at National Insti
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princeadeola&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeadeola&theme=tokyonight" />
 </p>
