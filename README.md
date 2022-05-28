@@ -2,8 +2,8 @@
 
 I am Adesipe Adeola, Currently I am working as Java instructor at National Institute of Information Technology,  I am a Full Stack Developer with experience building projects. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-adesipeadeola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.[linkedin.com/in/adesipe-lateef-adeola-3a5541197/](https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/))
-[![Instagram Badge](https://img.shields.io/badge/-princeadeola-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/princeadeola/)](https://instagram.com/princeadeola)
+[![Linkedin Badge](https://img.shields.io/badge/-adesipeadeola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/)](https://www.[linkedin.com/in/adesipe-lateef-adeola-3a5541197/](https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/))
+[![Instagram Badge](https://img.shields.io/badge/-princeadeola-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/princeadeola234/)](https://instagram.com/princeadeola234)
 [![Hashnode Badge](https://img.shields.io/badge/-@codingcomrades-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://codingcomrades.hashnode.dev/)](https://codingcomrades.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-princeadeola234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:princeadeola234@gmail.com)](mailto:princeadeola234@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://princeadeola.github.io/)](https://princeadeola.github.io/)
@@ -67,3 +67,5 @@ How the time is spent
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princeadeola&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeadeola&theme=tokyonight" />
 </p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Princeadeola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
