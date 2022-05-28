@@ -9,6 +9,20 @@ I am Adesipe Adeola, Currently I am working as Java instructor at National Insti
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://princeadeola.github.io/)](https://princeadeola.github.io/)
 [![Youtube Badge](https://img.shields.io/badge/-TechQuile-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ)](https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ)
 
+### :woman_technologist: Life in progress :
+How the time is spent
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
+
+- :seedling: An aspiring cloud Developer (GCC/GCP).
+
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **web and mobile development**
+
+- :zap: As a tutor, I teach web and mobile ( Java & Kotlin ) development both private and schools
+
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=princeadeola&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
