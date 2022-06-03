@@ -13,9 +13,9 @@ I am Adesipe Adeola, Currently I am working as Java instructor at National Insti
 How the time is spent
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
-- :seedling: An aspiring cloud Developer (GCC/GCP).
+- :seedling: An aspiring cloud Developer (AWS).
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang and DSA**
 
 - 💬 Ask me about **web and mobile development**
 
