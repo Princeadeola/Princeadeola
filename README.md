@@ -15,7 +15,7 @@ How the time is spent
 
 - :seedling: An aspiring cloud Developer (AWS).
 
-- 🌱 I’m currently learning **Golang and DSA**
+- 🌱 I’m currently learning **Nodejs and DSA**
 
 - 💬 Ask me about **web and mobile development**
 
