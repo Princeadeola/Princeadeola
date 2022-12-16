@@ -15,11 +15,11 @@ How the time is spent
 
 - :seedling: An aspiring cloud Developer (AWS).
 
-- 🌱 I’m currently learning **Nodejs and DSA**
+- 🌱 I’m currently learning **Swift and DSA**
 
 - 💬 Ask me about **web and mobile development**
 
-- :zap: As a tutor, I teach web and mobile ( Java & Kotlin ) development both private and schools
+- :zap: As a tutor, I teach web and mobile ( Java ) development both private tutoring and schools
 
 
 
