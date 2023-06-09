@@ -24,7 +24,7 @@ How the time is spent
 
 !["Profile Views"](https://komarev.com/ghpvc/?username=princeadeola&label=Profile%20views&color=0e75b6&style=flat "Profile Views")
 
-<img src="https://activity-graph.herokuapp.com/graph?username=princeadeola&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=princeadeola&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 
 ## ⚡ Technologies
 
