@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/adesipe-lateef-adeola-3a5541197/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:princeadeola234@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://codingcomrades.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="https://www.youtube.com/channel/UCCO7tIQn04YGr-i3PECcwWQ"><img src="https://img.shields.io/badge/YouTube-TechQuile-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/channel/CO7tIQn04YGr-i3PECcwWQ"><img src="https://img.shields.io/badge/YouTube-TechQuile-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <p align="center">
